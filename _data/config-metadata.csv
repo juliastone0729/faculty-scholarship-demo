@@ -1,5 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
+abstract,Abstract,
+publisher,Publisher,
 creator,Creator,
 date,Date Created,
 description,Description,
@@ -7,7 +9,7 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
+source,Link,,true
 identifier,Source Identifier,,
 type,Type,
 format,Format,
